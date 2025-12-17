@@ -104,7 +104,7 @@ Enter the following:
 
 Click "Test Connection" - if prompted, enter your database username and password. The database and schemas should now appear in the browser.
 
-Try importing data. Bring a vector layer into QGIS - for example from this simple layer containing [New York's borough boundaries](https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/NYC_Borough_Boundary/FeatureServer/0/query?where=1=1&outFields=*&outSR=4326&f=pgeojson). Then from the main menu, choose *Database > DB Manager*. Click *Import Layer/File* and enter the relevant details.
+Try importing data. Bring a vector layer into QGIS - for example from this simple layer containing [New York's borough boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/yqww-f9f3). Then from the main menu, choose *Database > DB Manager*. Click *Import Layer/File* and enter the relevant details.
 
 <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/50b5768f-21e4-4c55-82f3-7331183f9d8e" />
 
